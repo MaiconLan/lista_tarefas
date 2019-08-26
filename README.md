@@ -1,6 +1,6 @@
-# lista_tarefas
+# Lista de tarefas
 
-A new Flutter application.
+Este é um aplicativo simples para aprendizado de diversos componentes do Flutter.
 
 ## Getting Started
 
